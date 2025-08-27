@@ -5,7 +5,7 @@ class Book:
         self.year = year
 
     def display_info(self):
-        print(f"Title: {self.title}, Author: {self.author}, Year: {self.publication_year}")
+        print(f"Title: {self.title}, Author: {self.author}, Year: {self.year}")
 
 # Example usage
 if __name__ == "__main__":
